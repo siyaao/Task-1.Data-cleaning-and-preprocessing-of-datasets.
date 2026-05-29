@@ -54,10 +54,8 @@ The dataset contains customer information collected from a shopping mall.
 | Column Name | Description || CustomerID | Unique customer ID || Gender | Age | Annual Income (k$) | Spending Score (1-100) 
 
 • Libraries Used
-
 ```python
 import pandas as pd
 import numpy as np
 
-• Author
-Siya Patel
+
